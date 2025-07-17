@@ -6,3 +6,6 @@
 # TOTAL: 1
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.app
+DOMAIN-SUFFIX,threads.xyz
+DOMAIN-KEYWORD,threads
